@@ -1,0 +1,98 @@
+export const products = [
+  {
+    id: 1,
+    title: "Trufa Tradicional",
+    description: "Deliciosa trufa de chocolate ao leite com recheio cremoso.",
+    image: "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw0a5a2195/large/1002633_4.png",
+  },
+  {
+    id: 2,
+    title: "Tablete 70% Cacau",
+    description: "Chocolate intenso para quem ama sabor marcante.",
+    image: "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw704cc2bb/large/1002795_1.png",
+  },
+  {
+    id: 3,
+    title: "Caixa de Bombons",
+    description: "Seleção especial com os melhores bombons.",
+    image: "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw8a115d52/large/1002628.png",
+  },
+  {
+    id: 4,
+    title: "Trufa de Morango",
+    description: "Chocolate ao leite com recheio de morango.",
+    image: "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw88bbe098/medium/1001045.png",
+  },
+  {
+    id: 5,
+    title: "Chocolate Branco",
+    description: "Suave e cremoso, perfeito para qualquer momento.",
+    image: "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dwb3b8f266/medium/1003290.png",
+  },
+  {
+    id: 6,
+    title: "Mini Trufas",
+    description: "Pacote com mini trufas deliciosas.",
+    image: "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dwe55808f4/medium/2006351.png",
+  },
+  {
+    id: 7,
+    title: "Cesta Presente",
+    description: "Cesta com chocolates variados.",
+    image: "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dwace98652/medium/2005907_1.png",
+  },
+  {
+    id: 8,
+    title: "Chocolate Amargo",
+    description: "Sabor forte e sofisticado.",
+    image: "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dwe7be0015/medium/1002742_1.png",
+  },
+  {
+    id: 9,
+    title: "Trufa de Maracujá",
+    description: "Combinação perfeita de doce e azedo.",
+    image: "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw69226153/medium/1003344.png",
+  },
+  {
+    id: 10,
+    title: "Barra Crocante",
+    description: "Chocolate com pedaços crocantes.",
+    image: "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw33147802/medium/1003082.png",
+  },
+  {
+    id: 11,
+    title: "Caixa Premium",
+    description: "Presente ideal para ocasiões especiais.",
+    image: "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw0ac2261a/medium/1003113.png",
+  },
+  {
+    id: 12,
+    title: "Trufa de Avelã",
+    description: "Recheio cremoso com sabor de avelã.",
+    image: "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dwa81308ab/medium/1003352.png",
+  },
+  {
+    id: 13,
+    title: "Chocolate ao Leite",
+    description: "Clássico que nunca sai de moda.",
+    image: "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dwc15193ae/medium/2005560_1.png",
+  },
+  {
+    id: 14,
+    title: "Kit Degustação",
+    description: "Vários sabores para experimentar.",
+    image: "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw044a507f/medium/1002882_1.png",
+  },
+  {
+    id: 15,
+    title: "Trufa de Coco",
+    description: "Chocolate com recheio de coco.",
+    image: "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw8dc48511/medium/2005803_1.png",
+  },
+  {
+    id: 16,
+    title: "Barra Recheada",
+    description: "Chocolate com recheio especial.",
+    image: "https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw4f0f3da7/medium/1002881_1.png",
+  },
+];
